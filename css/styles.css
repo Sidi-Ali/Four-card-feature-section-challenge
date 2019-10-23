@@ -1,0 +1,94 @@
+
+
+
+body{
+  font-family: 'Poppins', sans-serif;
+  Font-size: 15px;
+  text-align: center;
+}
+p{
+font-weight:normal ;
+
+}
+
+h3{
+  margin-top: auto;
+}
+
+img{
+  margin: 20px auto 0 auto;
+}
+
+.firstp{
+  width: 40%;
+  margin: auto;
+
+}
+.firsth2{
+  font-weight: normal;
+  margin: 50px auto 0 auto;
+}
+
+.secondh2{
+  margin-top: 0;
+
+}
+
+.Cyan-card{
+  border-top: 4px solid hsl(180, 62%, 55%);
+  border-radius: 2%;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  top: 220px;
+  left: 100px;
+  box-shadow: 1px 8px 16px -2px #D3D3D3;
+  text-align: left;
+  padding: 30px;
+
+
+
+
+}
+
+.red-card{
+  border-top: 4px solid hsl(0, 78%, 62%);
+  border-radius: 2%;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  left: 490px;
+  bottom: 200px;
+  box-shadow: 1px 8px 16px -2px #D3D3D3;
+  text-align: left;
+  padding: 30px;
+
+}
+
+.orange-card{
+  border-top: 4px solid hsl(34, 97%, 64%);
+  border-radius: 2%;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  left: 490px;
+  bottom: 170px;
+  box-shadow: 1px 8px 16px -2px #D3D3D3;
+  text-align: left;
+  padding: 30px;
+
+}
+
+.blue-card{
+  border-top: 4px solid hsl(212, 86%, 64%);
+  border-radius: 2%;
+  width: 300px;
+  height: 200px;
+  position: relative;
+  left: 880px;
+  bottom: 572px;
+  box-shadow: 1px 8px 16px -2px #D3D3D3;
+  text-align: left;
+  padding: 30px;
+
+}
